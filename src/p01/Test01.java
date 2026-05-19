@@ -9,6 +9,7 @@ public class Test01 {
 		System.out.println("浅見嵐");
 		System.out.println("あさみあらし");
 		System.out.println("asami");
+		System.out.println("arashi");
 
 	}
 
